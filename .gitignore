@@ -1,5 +1,5 @@
 .venv/
 backend/.env
 frontend/.env
-.env
+.env  
 db.sqlite3
